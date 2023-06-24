@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/React-Toggle/static/css/main.31d6cfe0.css",
+    "main.js": "/React-Toggle/static/js/main.98b21639.js",
+    "index.html": "/React-Toggle/index.html",
+    "main.98b21639.js.map": "/React-Toggle/static/js/main.98b21639.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.98b21639.js"
+  ]
+}
