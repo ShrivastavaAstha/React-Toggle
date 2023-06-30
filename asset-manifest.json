@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React-Toggle/static/css/main.41cf004b.css",
-    "main.js": "/React-Toggle/static/js/main.62d04363.js",
-    "index.html": "/React-Toggle/index.html",
-    "main.41cf004b.css.map": "/React-Toggle/static/css/main.41cf004b.css.map",
-    "main.62d04363.js.map": "/React-Toggle/static/js/main.62d04363.js.map"
+    "main.css": "/React-Array/static/css/main.47bac278.css",
+    "main.js": "/React-Array/static/js/main.43a4e19e.js",
+    "index.html": "/React-Array/index.html",
+    "main.47bac278.css.map": "/React-Array/static/css/main.47bac278.css.map",
+    "main.43a4e19e.js.map": "/React-Array/static/js/main.43a4e19e.js.map"
   },
   "entrypoints": [
-    "static/css/main.41cf004b.css",
-    "static/js/main.62d04363.js"
+    "static/css/main.47bac278.css",
+    "static/js/main.43a4e19e.js"
   ]
 }
